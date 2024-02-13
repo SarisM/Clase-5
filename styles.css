@@ -2,6 +2,11 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: "Roboto", sans-serif; 
+}
+body{
+    width: 100vw;
+    height: 100vw;
 }
 .fuente{
     color: rgb(200, 255, 0);
@@ -16,4 +21,14 @@
     height: 200px;
     padding: 1rem 0rem;
     box-sizing: border-box;
+    margin: 2rem;
+}
+.cuadrito2 {
+    background-color: blueviolet;
+    width: 25vw;
+    height: 50vw;
+}
+.cuadrito2:hover {
+    transition: 1s ease-in;
+    background-color: rgb(42, 165, 87);
 }
