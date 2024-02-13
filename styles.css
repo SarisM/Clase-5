@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.fuente{
+    color: rgb(200, 255, 0);
+    font-size: 3rem;
+}
+#parrafo {
+    color: brown;
+}
+.cuadrito {
+    background-color: aqua;
+    width: 500px;
+    height: 200px;
+    padding: 1rem 0rem;
+    box-sizing: border-box;
+}
